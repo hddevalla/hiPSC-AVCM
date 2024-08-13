@@ -1,4 +1,4 @@
-# cardiac_assembloid
+# hiPSC-AVCM
 
 This repository contains R scripts used for single cell RNAseq analyses as described in: Cardiac assembloids from human pluripotent stem cells model the atrioventricular conduction axis.
 
